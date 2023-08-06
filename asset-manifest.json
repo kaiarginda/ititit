@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ititit/static/css/main.6372c768.css",
+    "main.js": "/ititit/static/js/main.d18ca29a.js",
+    "index.html": "/ititit/index.html",
+    "main.6372c768.css.map": "/ititit/static/css/main.6372c768.css.map",
+    "main.d18ca29a.js.map": "/ititit/static/js/main.d18ca29a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6372c768.css",
+    "static/js/main.d18ca29a.js"
+  ]
+}
